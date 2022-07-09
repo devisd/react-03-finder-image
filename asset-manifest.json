@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-03-finder-image/static/css/main.e6c13ad2.css",
+    "main.js": "/react-03-finder-image/static/js/main.2510128a.js",
+    "index.html": "/react-03-finder-image/index.html",
+    "main.e6c13ad2.css.map": "/react-03-finder-image/static/css/main.e6c13ad2.css.map",
+    "main.2510128a.js.map": "/react-03-finder-image/static/js/main.2510128a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2510128a.js"
+  ]
+}
