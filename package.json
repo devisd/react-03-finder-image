@@ -42,7 +42,10 @@
     "eslint": "^8.19.0",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
-    "prettier": "^2.7.1"
+    "prettier": "^2.7.1",
+    "prop-types": "^15.8.1",
+    "react-loader-spinner": "^5.1.5",
+    "react-toastify": "^9.0.5"
   },
   "lint-staged": {
     "*.js": "eslint --cache --fix",
